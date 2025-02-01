@@ -54,7 +54,7 @@ const LoginPage: React.FC = () => {
       <div className="w-full md:w-1/2 flex items-center justify-center p-8">
         <div className="w-full max-w-md">
           <div className="text-center mb-8">
-            <Image src="/logo.svg" alt="Skinvincible Logo" width={80} height={80} className="mx-auto mb-4" />
+            <Image src="/logo.svg" alt="Skinvincible Logo" width={320} height={320} className="mx-auto mb-4" />
             <h1 className="text-3xl font-bold">Welcome to Skinlytics</h1>
             <p className="text-gray-600 mt-2">Your personal AI-powered skin care assistant</p>
           </div>
