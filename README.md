@@ -48,18 +48,7 @@ GEMINI_API_KEY="your-gemini-api-key"
 CLAUDE_API_KEY="your-claude-api-key"
 ```
 
-## 📚 API Documentation
 
-### Image Analysis Endpoint
-```typescript
-POST /api/analyze
-Content-Type: multipart/form-data
-
-{
-  image: File,
-  preferredLanguage?: string
-}
-```
 
 ### Voice Input Endpoint
 ```typescript
